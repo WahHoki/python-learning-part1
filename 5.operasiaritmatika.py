@@ -30,13 +30,3 @@ print( a, '%', b, '=', hasil)
 # operasi //
 hasil = a // b
 print (a,'//',b,'=',hasil)
-
-
-
-## merubah semua menjadi upper case
-bre = "bALer bRo"
-print("hasil = " + bre)
-bre = bre.upper()
-print("b = " + bre)
-bre = bre.lower()
-print("a = " + bre)
